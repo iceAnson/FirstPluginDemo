@@ -7,5 +7,7 @@ public class PluginImpl implements Plugin<Project> {
         project.task('testTask') << {
             println "Hello gradle plugin!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
         }
+        //task耗时监听
+        project.gradle.addListener(new TimeListener())
     }
 }

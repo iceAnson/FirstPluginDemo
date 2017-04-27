@@ -31,5 +31,9 @@
     <orderEntry type="library" exported="" name="gradle-api-3.3" level="project" />
     <orderEntry type="library" exported="" name="groovy-all-2.4.7" level="project" />
     <orderEntry type="library" exported="" name="gradle-installation-beacon-3.3" level="project" />
+    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
   </component>
 </module>
