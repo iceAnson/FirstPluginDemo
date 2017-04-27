@@ -10,6 +10,8 @@ repositories {
     mavenCentral()
 }
 
+//发布到jcentr请参照：http://blog.csdn.net/sbsujjbcy/article/details/50782830
+
 
 group='com.meiyou.firstplugin'
 version='1.0.1'
