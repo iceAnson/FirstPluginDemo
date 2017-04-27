@@ -36,7 +36,7 @@ public class TimeListener implements TaskExecutionListener, BuildListener {
     void buildFinished(BuildResult buildResult) {
         println "Task build Finish,Total time:"
         for(time in times){
-            printf time+"\n"
+            printf "%7sms  %s\n", time
         }
         /*println "Task spend time:"
         for (time in times) {
@@ -54,7 +54,7 @@ public class TimeListener implements TaskExecutionListener, BuildListener {
     @Override
     void afterExecute(Task task, TaskState taskState) {
         def ms = clock.timeInMs;
-        times.add(ms+"ms==>"+task.path);
+        times.add([ms, task.path]);
         task.project.logger.warn "${task.path} spend ${ms}ms"
 
     }
