@@ -35,8 +35,6 @@
     <orderEntry type="library" exported="" name="transform-api-2.0.0-deprecated-use-gradle-api" level="project" />
     <orderEntry type="library" exported="" name="gradle-api-2.2.2" level="project" />
     <orderEntry type="library" exported="" name="compilerCommon-2.2.2" level="project" />
-    <orderEntry type="library" exported="" name="asm-5.0.4" level="project" />
-    <orderEntry type="library" exported="" name="asm-commons-5.0.4" level="project" />
     <orderEntry type="library" exported="" name="proguard-gradle-5.2.1" level="project" />
     <orderEntry type="library" exported="" name="org.jacoco.core-0.7.5.201505241946" level="project" />
     <orderEntry type="library" exported="" name="org.jacoco.report-0.7.5.201505241946" level="project" />
@@ -58,7 +56,6 @@
     <orderEntry type="library" exported="" name="javawriter-2.5.0" level="project" />
     <orderEntry type="library" exported="" name="bcpkix-jdk15on-1.48" level="project" />
     <orderEntry type="library" exported="" name="bcprov-jdk15on-1.48" level="project" />
-    <orderEntry type="library" exported="" name="asm-tree-5.0.4" level="project" />
     <orderEntry type="library" exported="" name="lint-checks-25.2.2" level="project" />
     <orderEntry type="library" exported="" name="ecj-4.5.1" level="project" />
     <orderEntry type="library" exported="" name="baseLibrary-2.2.2" level="project" />
@@ -86,14 +83,13 @@
     <orderEntry type="library" exported="" name="commons-codec-1.4" level="project" />
     <orderEntry type="library" exported="" name="lombok-ast-0.2.3" level="project" />
     <orderEntry type="library" exported="" name="uast-145.597.3" level="project" />
+    <orderEntry type="library" exported="" name="asm-5.0.4" level="project" />
+    <orderEntry type="library" exported="" name="asm-commons-5.0.4" level="project" />
+    <orderEntry type="library" exported="" name="asm-tree-5.0.4" level="project" />
     <orderEntry type="library" exported="" name="annotations-25.2.2" level="project" />
     <orderEntry type="library" exported="" name="guava-18.0" level="project" />
     <orderEntry type="library" exported="" name="gradle-api-2.14.1" level="project" />
     <orderEntry type="library" exported="" name="groovy-all-2.4.4" level="project" />
     <orderEntry type="library" exported="" name="gradle-installation-beacon-2.14.1" level="project" />
-    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="firstplugin.firstplugin-1.0.1" level="project" />
   </component>
 </module>
