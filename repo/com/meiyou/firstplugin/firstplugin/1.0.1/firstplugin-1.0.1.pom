@@ -5,4 +5,12 @@
   <groupId>com.meiyou.firstplugin</groupId>
   <artifactId>firstplugin</artifactId>
   <version>1.0.1</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.tools.build</groupId>
+      <artifactId>gradle</artifactId>
+      <version>2.2.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
